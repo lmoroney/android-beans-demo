@@ -4,7 +4,7 @@
 
 Create an android app. Incorporate ML Kit and CameraX. Use CameraX to grab an image, pass it to MLKit, get the labels back, and render them in a toast.
 
-** This is implemented as bindisease_poc android app **
+** This is implemented as beandisease_poc android app **
 
 ## Demo Step 2:
 
