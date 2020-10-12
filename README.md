@@ -20,6 +20,13 @@ Incorporate the beans model into the app, using Import->Other->TensorFlow Lite. 
 ## Demo Step 4
 Add Firebase services to the app, showing how, when moving towards productizing an app you may need things like analytics, sign-in or remote config
 
-** Not yet implemented **
+** This is implemented as beandisease_pod_lite_firebase android app **
+
+## Demo Step 5
+Show the beans model running in the browser with TensorFlow.js
+
+** This is implemented as beansapp **
+
+
 
 
